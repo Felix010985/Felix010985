@@ -22,7 +22,7 @@ Low-level developer who enjoys building things from scratch. I write operating s
 
 | project | what it is |
 |---|---|
-| **[MazukiOS](https://github.com/Felix010985/MazukiOS)** | x86 OS in C — VGA, shell, libc, own API. GRUB-based, runs on real hardware |
+| **[MazukiOS](https://github.com/Felix010985/MazukiOS)** | x86 OS in C — VGA, shell, libc, own API. GRUB-loading, runs on real hardware |
 | **[TildeTerm](https://github.com/Felix010985/tildeterm)** | CMD replacement for Windows in Unix style. Useful builtins, built-in editor. C++20 |
 | **[Masyan](https://github.com/Felix010985/masyan)** | Custom language with its own runtime, written in C++ |
 | **[Luau86](https://github.com/Felix010985/luau86)** | x86-16 emulator running inside Roblox |
