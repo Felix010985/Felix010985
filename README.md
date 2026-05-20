@@ -8,24 +8,22 @@
                                                                         
 ```
 
-> *Writing OSes, emulators, compilers -- and winning duels.*
+> *Low-level developer and a Minecraft player.*
 
 ---
 
 ## ~# whoami
 
-Low-level developer who enjoys building things from scratch. I write operating systems, language runtimes, terminal emulators and whatever else sounds fun at 2am. If there's a layer of abstraction I haven't poked through yet, I'll get there eventually, just wait...
+Hello, i am FelixProfi, a low-level developer, i love developing my own OS and other fun stuff!
 
 ---
 
-## ~# cat projects.bin
+## ~# cat projects.txt
 
 | project | what it is |
 |---|---|
 | **[MazukiOS](https://github.com/Felix010985/MazukiOS)** | x86 OS in C — VGA, shell, libc, own API. GRUB-loading, runs on real hardware |
-| **[TildeTerm](https://github.com/Felix010985/tildeterm)** | CMD replacement for Windows in Unix style. Useful builtins, built-in editor. C++20 |
-| **[Masyan](https://github.com/Felix010985/masyan)** | Custom language with its own runtime, written in C++ |
-| **[Luau86](https://github.com/Felix010985/luau86)** | x86-16 emulator running inside Roblox |
+| **[TildeTerm](https://github.com/Felix010985/tildeterm)** | Custom shell for Windows written in C++ |
 | **[powershelltoexe.c](https://github.com/Felix010985/powershelltoexe.c)** | Encrypts PS scripts to base64 and compiles to .exe via MinGW |
 
 ---
@@ -34,7 +32,6 @@ Low-level developer who enjoys building things from scratch. I write operating s
 
 ```
 Languages  ->  C · C++20 · ASM (NASM) · Python · raw opcodes
-Low-level  ->  x86 protected/long mode · VGA · GRUB · linker scripts
 Tools      ->  GCC cross-compiler · QEMU · KDE Kate
 ```
 
@@ -46,6 +43,6 @@ Tools      ->  GCC cross-compiler · QEMU · KDE Kate
 
 ---
 
-## find me
+## subscribe to my YouTube channel
 
 [![YouTube](https://img.shields.io/badge/YouTube-FelixProfi0r1-red?style=flat-square&logo=youtube)](https://www.youtube.com/@FelixProfi0r1)
