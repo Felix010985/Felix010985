@@ -23,7 +23,7 @@ Hello, i am FelixProfi, a low-level developer, i love developing my own OS and o
 | project | what it is |
 |---|---|
 | **[MazukiOS](https://github.com/Felix010985/MazukiOS)** | x86 OS in C — VGA, shell, libc, own API. GRUB-loading, runs on real hardware |
-| **[TildeTerm](https://github.com/Felix010985/tildeterm)** | Custom shell for Windows written in C++ |
+| **[Dblur](https://github.com/Felix010985/dblur)** | Utility, not more |
 | **[powershelltoexe.c](https://github.com/Felix010985/powershelltoexe.c)** | Encrypts PS scripts to base64 and compiles to .exe via MinGW |
 
 ---
