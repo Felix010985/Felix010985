@@ -22,17 +22,17 @@ Hello, i am FelixProfi, a low-level developer, i love developing my own OS and o
 
 | project | what it is |
 |---|---|
-| **[MazukiOS](https://github.com/Felix010985/MazukiOS)** | x86 OS in C — VGA, shell, libc, own API. GRUB-loading, runs on real hardware |
-| **[Dblur](https://github.com/Felix010985/dblur)** | Utility, not more |
-| **[powershelltoexe.c](https://github.com/Felix010985/powershelltoexe.c)** | Encrypts PS scripts to base64 and compiles to .exe via MinGW |
+| **[MazukiOS](https://github.com/Felix010985/MazukiOS)** | A POSIX-Compliant OS written in C from scratch featuring musl libc and somewhat Linux compatability |
+| **[Dblur](https://github.com/Felix010985/dblur)** | A motion blur post-processing utility in C using ffmpeg |
+| **[Onus Theme](https://github.com/Felix010985/Onus-theme)** | A dark theme mainly for Openbox also ported to Polybar and i3wm, contributions are welcome |
 
 ---
 
-## ~# ls stack
+## ~# ls stack/
 
 ```
-Languages  ->  C · C++20 · ASM (NASM) · Python · raw opcodes
-Tools      ->  GCC cross-compiler · QEMU · KDE Kate
+Languages  ->  C · C++ · ASM (NASM) · Python · Java basics
+Tools      ->  Void Linux · FreeBSD · QEMU/KVM · KDE Kate
 ```
 
 ---
@@ -42,7 +42,3 @@ Tools      ->  GCC cross-compiler · QEMU · KDE Kate
 `Counter-Strike: Source / CS2` · `Minecraft 1.8/Bedrock PvP` · `making videos` · `sports`
 
 ---
-
-## subscribe to my YouTube channel
-
-[![YouTube](https://img.shields.io/badge/YouTube-FelixProfi0r1-red?style=flat-square&logo=youtube)](https://www.youtube.com/@FelixProfi0r1)
