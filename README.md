@@ -23,7 +23,7 @@ Hello, i am FelixProfi, a low-level developer, i love developing my own OS and o
 | project | what it is |
 |---|---|
 | **[MazukiOS](https://github.com/Felix010985/MazukiOS)** | A POSIX-Compliant OS written in C from scratch featuring musl libc and somewhat Linux compatability |
-| **[Dblur](https://github.com/Felix010985/dblur)** | A motion blur post-processing utility in C using ffmpeg |
+| **[DBlur](https://github.com/Felix010985/dblur)** | A motion blur post-processing utility in C using ffmpeg |
 | **[Onus Theme](https://github.com/Felix010985/Onus-theme)** | A dark theme mainly for Openbox also ported to Polybar and i3wm, contributions are welcome |
 
 ---
