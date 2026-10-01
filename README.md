@@ -18,7 +18,7 @@ Hello, i am FelixProfi, a low-level developer, i love developing my own OS and o
 
 ---
 
-## ~# cat projects.txt
+## ~# my projects
 
 | project | what it is |
 |---|---|
@@ -28,17 +28,17 @@ Hello, i am FelixProfi, a low-level developer, i love developing my own OS and o
 
 ---
 
-## ~# ls stack/
+## ~# stackingonment
 
 ```
-Languages  ->  C · C++ · ASM (NASM) · Python · Java basics
-Tools      ->  Void Linux · FreeBSD · QEMU/KVM · KDE Kate
+Languages                 ->  C · C++ · ASM (NASM) · Python · Java basics
+Tools/Preferred OS's      ->  Void Linux · MazukiOS · FreeBSD · QEMU/KVM · KDE Kate
 ```
 
 ---
 
-## outside the terminal
+## irl
 
-`Counter-Strike: Source / CS2` · `Minecraft 1.8/Bedrock PvP` · `making videos` · `sports`
+`Counter-Strike: Source / CS2` · `Minecraft 1.7/Bedrock PvP` · `making videos` · `sports`
 
 ---
